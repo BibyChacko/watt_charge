@@ -1,0 +1,6 @@
+
+
+enum ContentPermissionTypes{
+  edit,
+  view
+}
